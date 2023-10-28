@@ -82,10 +82,9 @@ Top-performing teams and best models will be invited for a special issue in jour
 ## Organizers ##
 <ul>
 <li> Surendrabikram Thapa (Virginia Tech, USA) </li>
-<li> Usman Naseem (University of Sydney, Australia) </li>
-<li> Roy Lee (Singapore University of Technology and Design, Singapore) </li>
 <li> Farhan Ahmad Jafri (Jamia Millia Islamia, India) </li>
-<li> Francielle Vargas (University of São Paulo, Brazil) </li>
+<li> Kritesh Rauniyar (Delhi Technological University, India) </li>
+<li> Usman Naseem (James Cook University, Australia) </li>
 </ul>
 
 ## Contact ##
