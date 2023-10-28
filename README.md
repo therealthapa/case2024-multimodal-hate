@@ -19,13 +19,13 @@ The sample codes for both the subtasks are provided in the repo.
 In order to participate in the competition, please fill out the form provided [here](https://forms.gle/qEVTUvPBRC7Q3zhAA). 
 Join our codalab competition [here](https://codalab.lisn.upsaclay.fr/competitions/13087).
 
-Upon completion of the form, you will be provided training data and evaluation data. Link for testing data will be provided to all the registered participants on June 15, 2023. 
+Upon completion of the form, you will be provided training data and evaluation data. A link for testing data will be provided to all the registered participants on June 15, 2023. 
 
 ## Dataset ## 
-All the images have unique identifier called "index". The labels for training data are organized in the folder provided. For evaluation and testing, the submission format is mentioned below.
+All the images have a unique identifier called "index". The labels for training data are organized in the folder provided. For evaluation and testing, the submission format is mentioned below.
 
 ## Instructions for OCR Extraction ##
-If you want to extract OCR, you can use Google vision API, tesseract, etc. In the paper that benchmarks this dataset, we have used Google Vision API to extract OCR for training the models. The code can be found [here](https://github.com/aabhandari/CrisisHateMM/blob/main/OCR.ipynb).
+If you want to extract OCR, you can use Google Vision API, tesseract, etc. In the paper that benchmarks this dataset, we have used Google Vision API to extract OCR for training the models. The code can be found [here](https://github.com/aabhandari/CrisisHateMM/blob/main/OCR.ipynb).
 
 ## Evaluation ## 
 
@@ -57,7 +57,7 @@ Similarly, for the subtask B, the final prediction submissions should be like th
 Participants in the Shared Task are expected to submit a paper to the workshop. Submitting a paper is not mandatory for participating in the Shared Task. Papers must follow the CASE 2023 workshop submission instructions and will undergo regular peer review. Their acceptance will not depend on the results obtained in the shared task but on the quality of the paper. Authors of accepted papers will be informed about the evaluation results of their systems prior to the paper submission deadline (see the important dates). All the accepted papers will be published in ACL Anthology.
 
 ## Invitation for Special Issue ##
-Top performing teams and best models will be invited for an special issue in journals (T.B.D.).
+Top-performing teams and best models will be invited for a special issue in journals (T.B.D.).
 
 ## Timeline of the Events ##
 <ul>
@@ -94,7 +94,7 @@ If there are any questions related to the competition, please contact surendrabi
 
 ## References ##
 
-If you use the dataset, please cite as follows:
+If you use the dataset, please cite it as follows:
 
 ```bibtex
 @inproceedings{bhandari2023crisishatemm,
@@ -106,7 +106,7 @@ If you use the dataset, please cite as follows:
 }
 ```
 
-All the papers submitted as shared task report should cite the shared task as follows:
+All the papers submitted as shared task reports should cite the shared task as follows:
 
 ```bibtex
 @inproceedings{thapa2023multimodal,
