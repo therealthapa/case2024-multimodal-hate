@@ -83,6 +83,7 @@ Top-performing teams and best models will be invited for a special issue in jour
 <ul>
 <li> Surendrabikram Thapa (Virginia Tech, USA) </li>
 <li> Farhan Ahmad Jafri (Jamia Millia Islamia, India) </li>
+<li> Hariram Veeramani (UCLA, USA) </li>
 <li> Kritesh Rauniyar (Delhi Technological University, India) </li>
 <li> Usman Naseem (James Cook University, Australia) </li>
 </ul>
