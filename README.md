@@ -10,7 +10,7 @@ The dataset for this sub-task has two labels viz. "Hate Speech" and "No Hate Spe
 ## Sub-task B ##
 <b> Target Detection:</b> The goal of this subtask is to identify the targets of hate speech in a given hateful text-embedded image. The text-embedded images are annotated for "community", "individual" and "organization" targets.
 
-To know more about the dataset, please refer to our [paper](Paper/crisishatemm.pdf).
+To know more about the dataset, please refer to our [paper](https://openaccess.thecvf.com/content/CVPR2023W/MMCM/html/Bhandari_CrisisHateMM_Multimodal_Analysis_of_Directed_and_Undirected_Hate_Speech_in_CVPRW_2023_paper.html).
 The sample codes for both the subtasks are provided in the repo. 
 
 
@@ -28,9 +28,9 @@ A link for testing data will be provided to all the registered participants on N
 All the images have a unique identifier called "index". The labels for training data are organized in the folder provided. For evaluation and testing, the submission format is mentioned below.
 
 ## Instructions for OCR Extraction ##
-If you want to extract OCR, you can use Google Vision API, tesseract, etc. In the paper that benchmarks this dataset, we have used Google Vision API to extract OCR for training the models. The code can be found [here](https://github.com/aabhandari/CrisisHateMM/blob/main/OCR.ipynb).
+If you want to extract OCR, you can use Google Vision API, tesseract, etc. In the paper that benchmarks this dataset, we have used Google Vision API to extract OCR for training the models. The code can be found [here](https://github.com/therealthapa/case2024-multimodal-hate/tree/main/Extracted%20Text).
 
-A lot of participants do not have access to vision API. They can use the extracted text from [here](https://openaccess.thecvf.com/content/CVPR2023W/MMCM/html/Bhandari_CrisisHateMM_Multimodal_Analysis_of_Directed_and_Undirected_Hate_Speech_in_CVPRW_2023_paper.html).
+A lot of participants do not have access to vision API. They can use the extracted text from [here]().
 
 ## Evaluation ## 
 
