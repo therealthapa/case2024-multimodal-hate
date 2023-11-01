@@ -1,6 +1,6 @@
 # Task 4 - Shared task on Multimodal Hate Speech Event Detection at [CASE 2024](https://emw.ku.edu.tr/case-2024/) #
 
-Hate speech detection is one of the most important aspects of event identification during political events like invasions. In the case of hate speech detection, the event is the occurrence of hate speech, the entity is the target of the hate speech, and the relationship is the connection between the two. Since multimodal content is widely prevalent across the internet, the detection of hate speech in text-embedded images is very important. Given a text-embedded image, this task aims to automatically identify the hate speech and its targets. This task will have two subtasks.
+Hate speech detection is one of the most important aspects of event identification during political events like invasions. In the case of hate speech detection, the event is the occurrence of hate speech, the entity is the target of the hate speech, and the relationship is the connection between the two. Since multimodal content is widely prevalent across the internet, the detection of hate speech in text-embedded images is very important. Given a text-embedded image, this task aims to automatically identify the hate speech and its targets. This task will have two subtasks. This is an ongoing challenge that was held in CASE 2023 as well.
 
 ## Sub-task A ##
 <b> Hate Speech Detection:</b> The goal of this task is to identify whether the given text-embedded image contains hate speech or not. The text-embedded images, which are the dataset for this subtask, will have annotations for the prevalence of hate speech.
@@ -62,21 +62,21 @@ Top-performing teams and best models will be invited for a special issue in jour
 ## Timeline of the Events ##
 <ul>
 
-<li>Training & Evaluation data available: May 1, 2023 </li>
+<li>Training & Evaluation data available: Nov 1, 2023 </li>
 
-<li>Test data available: Jun 15, 2023  </li>
+<li>Test data available: Nov 30, 2023  </li>
 
-<li>Test start: Jun 15, 2023  </li>
+<li>Test start: Nov 30, 2023  </li>
 
-<li>Test end: Jun 30, 2023  </li>
+<li>Test end: Dec 28, 2023  </li>
 
-<li>System Description Paper submissions due: Jul 10, 2023</li>
+<li>System Description Paper submissions due: Jan 06, 2024 </li>
 
-<li>Notification to authors after review: Aug 5, 2023 </li>
+<li>Notification to authors after review: Jan 18, 2024 </li>
 
-<li>Camera ready: Aug 25, 2023 </li>
+<li>Camera ready: Jan 30, 2024 </li>
 
-<li>CASE Workshop: 7-8 September </li>
+<li>CASE Workshop: 21-22 Mar, 2024 </li>
 </ul>
 
 ## Organizers ##
