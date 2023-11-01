@@ -30,6 +30,8 @@ All the images have a unique identifier called "index". The labels for training 
 ## Instructions for OCR Extraction ##
 If you want to extract OCR, you can use Google Vision API, tesseract, etc. In the paper that benchmarks this dataset, we have used Google Vision API to extract OCR for training the models. The code can be found [here](https://github.com/aabhandari/CrisisHateMM/blob/main/OCR.ipynb).
 
+A lot of participants do not have access to vision API. They can use the extracted text from [here](https://github.com/therealthapa/case2024-multimodal-hate/tree/main/Extracted%20Text).
+
 ## Evaluation ## 
 
 The results are only accepted in codalab. The submission will be evaluated with a f1-score.
