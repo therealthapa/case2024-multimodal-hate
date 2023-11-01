@@ -16,10 +16,13 @@ The sample codes for both the subtasks are provided in the repo.
 
 ## Participation ##
 
-In order to participate in the competition, please fill out the form provided [here](https://forms.gle/qEVTUvPBRC7Q3zhAA). 
-Join our codalab competition [here](https://codalab.lisn.upsaclay.fr/competitions/13087).
+Join our codalab competition [here](https://codalab.lisn.upsaclay.fr/competitions/16203).
 
-Upon completion of the form, you will be provided training data and evaluation data. A link for testing data will be provided to all the registered participants on June 15, 2023. 
+Training data is provided at: https://drive.google.com/drive/folders/173EJjsNblxhjACXzIWardUqCcSYtcJh0
+
+Evaluation/Validation data is provided at: https://drive.google.com/drive/folders/1LL2OD7v2GhrmeC0j2Gm9YFCOa5vobVjc
+
+A link for testing data will be provided to all the registered participants on November 30, 2023. 
 
 ## Dataset ## 
 All the images have a unique identifier called "index". The labels for training data are organized in the folder provided. For evaluation and testing, the submission format is mentioned below.
