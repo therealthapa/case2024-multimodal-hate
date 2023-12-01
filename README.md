@@ -22,7 +22,8 @@ Training data is provided at: https://drive.google.com/drive/folders/173EJjsNblx
 
 Evaluation/Validation data is provided at: https://drive.google.com/drive/folders/1LL2OD7v2GhrmeC0j2Gm9YFCOa5vobVjc
 
-A link for testing data will be provided to all the registered participants on November 30, 2023. 
+A link for testing data is provided at:
+https://drive.google.com/drive/folders/1DIVebYypb2x9RJjoSeOmr5yEm5rCXt54
 
 ## Dataset ## 
 All the images have a unique identifier called "index". The labels for training data are organized in the folder provided. For evaluation and testing, the submission format is mentioned below.
@@ -30,7 +31,9 @@ All the images have a unique identifier called "index". The labels for training 
 ## Instructions for OCR Extraction ##
 If you want to extract OCR, you can use Google Vision API, tesseract, etc. In the paper that benchmarks this dataset, we have used Google Vision API to extract OCR for training the models. The code can be found [here](https://github.com/therealthapa/case2024-multimodal-hate/tree/main/Extracted%20Text).
 
-A lot of participants do not have access to vision API. They can use the extracted text from [here]().
+A lot of participants do not have access to vision API. They can use the extracted text from [here](https://drive.google.com/drive/folders/1LeGNIyYZ3Fh7RnwXsBBJDQr1-acTrw00).
+
+Extracted text for train, test and validation data: https://drive.google.com/drive/folders/1LeGNIyYZ3Fh7RnwXsBBJDQr1-acTrw00
 
 ## Evaluation ## 
 
