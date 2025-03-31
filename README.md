@@ -25,6 +25,8 @@ Evaluation/Validation data is provided at: https://drive.google.com/drive/folder
 A link for testing data is provided at:
 https://drive.google.com/drive/folders/1DIVebYypb2x9RJjoSeOmr5yEm5rCXt54
 
+The gold labels for testing data can be found at: https://drive.google.com/drive/folders/10S6gmC90bXNQTpjAJeqY6vqU1fwEv8Uq
+
 ## Dataset ## 
 All the images have a unique identifier called "index". The labels for training data are organized in the folder provided. For evaluation and testing, the submission format is mentioned below.
 
